@@ -12,4 +12,7 @@ This dataset contains natural images of size 150x150 for 6 categories (buildings
 3. apply data augmentation (zoom) to increase tha training data
 
 ### Model Architecture
-The model uses 8 conv layers, 3 average pooling, 1 flatten, 2 dropout and 3 fully connected layers. 
+The model uses *8 conv layers, 3 average pooling, 1 flatten, 2 dropout and 3 fully connected layers*.
+
+### How to use
+You can train the model and save model weights from '*CNN_with_accuracy_89_453.ipynb*' file, download *test set* folder too and run the '*test.py*' file.
