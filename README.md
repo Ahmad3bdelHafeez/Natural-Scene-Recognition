@@ -16,3 +16,6 @@ The model uses *8 conv layers, 3 average pooling, 1 flatten, 2 dropout and 3 ful
 
 ### How to use
 You can train the model and save model weights from '*CNN_with_accuracy_89_453.ipynb*' file, download *test set* folder too and run the '*test.py*' file.
+
+### Tools
+Python Jupter (Colab)
